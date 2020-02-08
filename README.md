@@ -1,3 +1,13 @@
-# 2020-hult-hackathon
+# Code For Venezuela & Hult Hackathon
 
-Guidelines and templates for the Hult Hackathon 02/2020
+## Index
+
+
+### Getting Started
+
+
+### Authentication
+
+
+### FAQ
+
